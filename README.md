@@ -7,12 +7,18 @@ Hi there 👋 I'm Magnifique Umurerwa
 👯 I’m open to opportunities.
 
 💻 Languages and Tools:
+
 Languages: CSS3, HTML5, JavaScript, Java, PHP, NodeJS
+
 Tools: Visual Studio Code, Git, JSON, MongoDB, MySQL
+
 📊 GitHub Stats
 
 
 📫 Get in Touch
+
 Email: ketymagnifique@gmail.com
+
 LinkedIn: Magnifique Umurerwa
+
 Website/Portfolio: ketty48.github.io/personal_portfolio/
