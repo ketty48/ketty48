@@ -14,8 +14,7 @@ Tools: Visual Studio Code, Git, JSON, MongoDB, MySQL
 
 📊 GitHub Stats
 [
-https://github-readme-stats.vercel.app/api?username=ketty48&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=ketty48&show_icons=true&theme=radical)
-
+https://github-readme-stats.vercel.app/api?username=ketty48&show_icons=true&theme=radical]
 📫 Get in Touch
 
 Email: ketymagnifique@gmail.com
