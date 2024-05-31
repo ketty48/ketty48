@@ -20,7 +20,6 @@ Tools: Visual Studio Code, Git, JSON, MongoDB, MySQL
 
 ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ketty48&theme=radical)
 
-## 📚 Most Used Languages
 
 ![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ketty48&layout=compact&theme=radical)
 
