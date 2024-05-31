@@ -1,4 +1,5 @@
 About Me
+
 Hi there 👋 I'm Magnifique Umurerwa
 
 🔭 I’m a Software Developer proficient in backend development using Node.js, Express.js, PHP, MongoDB, and MySQL.
@@ -15,7 +16,7 @@ Tools: Visual Studio Code, Git, JSON, MongoDB, MySQL
 
 📊 GitHub Stats
 
- ![alt text]([image URL](https://github-readme-stats.vercel.app/api?username=ketty48&show_icons=true&theme=radical))
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketty48&show_icons=true&theme=radical)
 
 📫 Get in Touch
 
