@@ -4,7 +4,7 @@ Hi there 👋 I'm Magnifique Umurerwa
 
 🔭 I’m a Software Developer proficient in backend development using Node.js, Express.js, PHP, MongoDB, and MySQL.
 
-🌱 I’m currently a student at ULK (Kigali Independent University) in Computer Science.
+🌱 Bachelor's degree in Computer Science.
 
 👯 I’m open to opportunities.
 
@@ -20,6 +20,12 @@ Hi there 👋 I'm Magnifique Umurerwa
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+
+
 
 
 
